@@ -22,7 +22,7 @@ CUDA drivers and PyTorch with CUDA installed.
 Note: The code will work without GPUs, but will take very long for the estimations.
 The computational requirements for this work were supported in part by the NYU Langone High Performance Computing (HPC) Core's resources.
 
-The input data is expected to be in an Excel file named ESVT_data_allSubjects28Oct2022.xlsx, located in a relative path ../../
+The input data is expected to be in an Excel file named ESVT_data_allSubjects.xlsx, located in a relative path ../../
 
 The program outputs CSV files containing the estimated parameters for each subject.
 
